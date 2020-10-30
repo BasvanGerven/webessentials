@@ -1,0 +1,35 @@
+body{
+  background-color: #d9ddd7;
+  front_family: Verdana;
+}
+th {
+  background-color: #27426d;
+  color: #c7ced8;
+}
+td{
+  background-color: #27426d;
+  color: #c7ced8;
+}
+.collom{
+  width: 100%;
+  background-color: #000257;
+  text-align: left;
+}
+.blue{
+  background-color:#4f8cef;
+}
+.light-blue{
+  background-color:#6facff;
+}
+.algemeen{
+  display: flex;
+  justify-content:center;
+  width: 60%;
+}
+.witruimte{
+  padding-bottom: 10px;
+  padding-top:10px;
+  padding-right:5px;
+  padding-left:5px;
+}
+
